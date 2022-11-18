@@ -1,0 +1,7 @@
+Programacion Backend:
+
+Javascript en nodejs:
+
+Un metodo util para ejecutar un archivo en nodejs, es abrir nuestra consola y ejecutar, node junto al tipo de archivo. No necesariamente tiene que ser en la consola de vscode, tambien esto puede darse en la powershell, o en la terminal bash
+
+Principios basicos de Javascript:
